@@ -1,0 +1,26 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  width: 960px;
+  margin: 10px auto;
+}
+img {
+  width: 150px;
+  box-shadow: 8px 8px 4px #AAA;
+  float: right;
+}
+
+.header {
+  background: #EEE;
+  padding: 14px;
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  border-bottom: solid 4px gray;
+  padding-bottom: 8px;
+}
+
+.tab {
+  margin-left: 20px;
+}
